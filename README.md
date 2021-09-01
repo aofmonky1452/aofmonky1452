@@ -1,4 +1,4 @@
-<img src="https://realbearpro.com/img/logo-full.png" style="width: 50px; object-fit: contain;" /> 
+<img src="https://realbearpro.com/img/logo-full.png" width="200" /> 
 
 - 👋 Hi, I’m @aofmonky1452
 - 👀 I’m interested in ...
